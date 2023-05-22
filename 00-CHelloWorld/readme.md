@@ -1,1 +1,1 @@
-Compilador utilizado: c18 en dev-c++
+Compilador utilizado: c18 en visual studio code
